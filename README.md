@@ -30,3 +30,9 @@ Panel de Administración (Básico): Interfaz para que el personal encargado camb
 4. Métrica de Éxito
 Sabremos que el MVP es exitoso si logramos reducir el tiempo de comunicación del reporte en un 70% (comparado con el sistema de llamadas actual) y si el 100% de los reportes generados reciben al menos un cambio de estado en sus primeros 7 días.
 
+
+## Tablero del Proyecto
+
+Tablero de seguimiento en Jira:
+https://cesunbc-team2-cityreport.atlassian.net/jira/software/projects/SCRUM/summary
+
