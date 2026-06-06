@@ -37,3 +37,5 @@ Sabremos que el MVP es exitoso si logramos reducir el tiempo de comunicación de
 Tablero de seguimiento en Jira:
 https://cesunbc-team2-cityreport.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiMTNlYmEyYTZmMTY4NDYzZTg4NmY1YzMwMGE4YTJmMzciLCJwIjoiaiJ9
 
+## Enlace a stitch(tipo Figma):
+https://stitch.withgoogle.com/projects/5504479962085551709
